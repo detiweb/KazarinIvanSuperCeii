@@ -1,0 +1,39 @@
+body{
+	background:url(sup3.jpg);
+	background-repeat: repeat;
+	font-family: 'Arvo', serif;
+}
+img{
+	border: 6px solid darkcyan;
+	border-radius: 10px;
+	width: 50%;
+	margin-left: 25%;
+} 
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+.card{
+	width: 30%;
+	height: 150px;
+	margin-left: 3%;
+	display: inline-block;
+}
+p{
+	color: #8A2BE2;
+	background: white;
+	font-size: x-large;
+}
+h2{
+	text-align: center;
+	text-decoration: underline;
+}
+a{
+	text-decoration: none;
+}
+.img{
+	position: fixed;
+	top: 600px;
+	right: 10px;
+	z-index: 10;
+}
